@@ -1,6 +1,6 @@
-# Assignment - 15
+# Product-Design-Landing-Page
 
-## Project 15 [Live Link](https://full-stack-js-projects-15.netlify.app/)
+## Project 15 [Live Link](https://product-design-landing-pages-15.netlify.app/)
 
 - ### skills used in project
   - Learn CSS Position, Grid, flexbox etc.
